@@ -1,4 +1,4 @@
-# Database Activities on Friday 27th
+# Database Activities On Friday 27th Of October
 
 > Today, we delved into database technology and transactions, gaining valuable insights into ACID principles.
 
@@ -10,11 +10,11 @@
 
 **We then created a database on our systems using mariadb, using the commands as follows:**
 
-> sudo apt update
-> sudo apt install mariadb-server
-> sudo mariadb --version
-> sudo service mysql start
-> sudo mariadb
+- sudo apt update
+- sudo apt install mariadb-server
+- sudo mariadb --version
+- sudo service mysql start
+- sudo mariadb
 
 **Lastly, we created a table in mariadb with the following syntax:**
 
@@ -25,13 +25,13 @@
 > phone_no VARCHAR(10),
 > );
 
-## What is A Database?
+## What Is A Database?
 
 > A database is an organized collection of structured information, or data, typically stored electronically in a computer system.
 
 > A database is usually controlled by a database management system (DBMS). Together, the data and the DBMS, along with the applications that are associated with them, are referred to as a database system, often shortened to just databases.
 
-## What is a Relational Database?
+## What Is A Relational Database?
 
 > A relational database is a type of database that stores and provides access to data points that are related to one another.
 
@@ -39,7 +39,7 @@
 
 > The columns of the table hold attributes of the data, and each record usually has a value for each attribute, making it easy to establish the relationships among data points.
 
-## What are Non-relational Databases?
+## What Are Non-relational Databases?
 
 > Non-relational databases (often called NoSQL databases) are different from traditional relational databases in that they store their data in a non-tabular form.
 
@@ -47,7 +47,7 @@
 
 > This ability to digest and organize various types of information side by side makes non-relational databases much more flexible than relational databases.
 
-## What are Database Management Systems?
+## What Are Database Management Systems?
 
 > Database Management Systems (DBMS) are software systems used to store, retrieve, and run queries on data.
 
