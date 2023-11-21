@@ -1,4 +1,4 @@
-# Databases Fact Finding
+# Fact Finding Exercise
 
 ## Python Fact Finding Exercise
 
